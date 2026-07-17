@@ -8,7 +8,7 @@ Students will learn about sizes stupendously big things like the Sun. They will 
 
 ### 2. [Download the Sun Transit Video here](https://drive.google.com/file/d/10PpUn1g-Pnz15PcW9VuB7nASutPqNzhv/view?usp=sharing)
 
-### 3. [Measure the diameter of the Sun in a Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/fibonacci&branch=gh-pages&urlpath=lab/tree/fibonacci/notebooks/dia_of_sun/sun_dia_and_dist.ipynb?reset)
+### 3. [Measure the diameter of the Sun in a Jupyter Notebook](https://boyceastrows.gleeze.com/hub/user-redirect/git-pull?repo=https://github.com/drunarayan/tmsnotebooks&branch=main&urlpath=lab/tree/tmsnotebooks/notebooks/dia_of_sun/sun_dia_and_dist.ipynb?reset)
 
 
 
