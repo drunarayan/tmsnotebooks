@@ -13,3 +13,4 @@
 1. [Galton Board](/notebooks/galton_board/readme.md)
 1. [Build Paper Airplanes](/notebooks/paper_airplanes/readme.md)
 1. [Team Song](/notebooks/team_song/readme.md)
+1. [Numbers and Infinities](/notebooks/num_infi/readme.md)
