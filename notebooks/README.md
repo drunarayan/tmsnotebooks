@@ -1,6 +1,8 @@
 # Jupyter Notebooks for The Meenakshi School
 
 ### The Meenakshi School Jupyter Notebooks
+1. [Numbers & Infinities Notebook](/num_infi/readme.md)
+1. [Dia of Moon Notebook](/dia_of_moon/readme.md)
 1. [Calculate PI Notebook](/calculate_pi/readme.md)
 1. [Dia of Sun Notebook](/dia_of_sun/readme.md)
 1. [Astro Imaging](/astro_imaging/readme.md)
