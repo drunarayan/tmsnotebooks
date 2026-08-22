@@ -4,6 +4,7 @@
 1. [The Meenakshi School (TMS) Website](https://drunarayan.github.io/tms/)
 
 ### The Meenakshi School Jupyter Notebooks
+1. [Series & Progressions Notebook](/series_progressions/readme.md)
 1. [Numbers & Infinities Notebook](/num_infi/readme.md)
 1. [Dia of Moon Notebook](/dia_of_moon/readme.md)
 1. [Calculate PI Notebook](/calculate_pi/readme.md)
