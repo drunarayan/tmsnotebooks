@@ -1,6 +1,7 @@
 # Jupyter Notebooks for The Meenakshi School
 
 ### The Meenakshi School Jupyter Notebooks
+1. [Calculus 1 Speed & Distance Functions](/calc1_speed_dist/readme.md)
 1. [Series & Progressions Notebook](/series_progressions/readme.md)
 1. [Numbers & Infinities Notebook](/num_infi/readme.md)
 1. [Dia of Moon Notebook](/dia_of_moon/readme.md)
